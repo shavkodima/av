@@ -1,0 +1,21 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+body{
+    box-sizing: border-box;
+}
+
+.search-result{
+    max-width: 1024px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.search-list__p{
+    display: flex;
+    justify-content: space-between;
+    background: #333;
+    padding: 20px;
+}
